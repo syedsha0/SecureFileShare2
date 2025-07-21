@@ -12,7 +12,7 @@ This guide will walk you through the steps to set up and run the Secure File Sha
 ## Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/secure-file-sharing.git
+git clone https://github.com/syedsha0/secure-file-sharing.git
 cd secure-file-sharing
 ```
 
