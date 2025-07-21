@@ -77,7 +77,7 @@ A robust, secure file sharing platform that provides end-to-end encryption, comp
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/secure-file-sharing.git
+git clone https://github.com/syedsha0/secure-file-sharing.git
 cd secure-file-sharing
 
 # Set up virtual environment
